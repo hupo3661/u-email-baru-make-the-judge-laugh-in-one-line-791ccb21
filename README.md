@@ -10,9 +10,9 @@ one funny line, up to 200 characters, on any topic.
 
 ## The line
 
-> My smart fridge emailed me a diet plan, which is rich coming from a machine that has never once closed its own door.
+> My smart fridge emailed me a diet plan, then left its own door open all night like the calories were my problem.
 
-(116 characters, one sentence. Also saved in `entry.txt`.)
+(112 characters, one sentence. Also saved in `entry.txt`.)
 
 ## Run
 

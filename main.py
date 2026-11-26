@@ -7,8 +7,8 @@ The line is one sentence, 200 characters at most, on any topic.
 from pathlib import Path
 
 ENTRY = (
-    "My smart fridge emailed me a diet plan, which is rich coming "
-    "from a machine that has never once closed its own door."
+    "My smart fridge emailed me a diet plan, then left its own door "
+    "open all night like the calories were my problem."
 )
 
 
